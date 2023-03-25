@@ -1,5 +1,14 @@
 //setup the RTC using RTC by makuna
 //Reference - https://github.com/ismailsakdo/EHRU_EMSA/blob/main/GROUP%20EHRU%20SKETCH22/nana_ccs811_mq.ino
+
+/*
+Pin Assingment (ESP32):
+CS - 5
+MOSI -23
+CLK -18
+MISO -19
+*/
+
 #include <Wire.h>
 #include <SPI.h>
 #include <SD.h>
