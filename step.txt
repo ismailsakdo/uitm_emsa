@@ -27,3 +27,23 @@ Method 2 (Install from zip file)
 3) Extract the Zip file
 4) Rename the folder, remove the "-master" extension if any
 5) Copy the unzip folder into Arduino library folder
+6) Paste the folder into Arduino > libraries
+
+Method 2.1 (Install from the Github/ Repo)
+1) Navigate to the link
+2) Download
+3) Extract
+4) Rename the folder, remove the "-master" name/ extension (if any)
+5) Copy the unzip and rename folder
+6) Paste into the Arduino > libraries folder
+
+List of Libraries:
+1) rtclib
+2) rtc by makuna
+3) MQunifiedsensor
+4) Adafruit_GFX
+5) Adafruit_SSD1306
+6) Adafruit_PM25AQI
+7) ThingSpeak
+8) WiFiManager
+9) SD card if not present: https://github.com/espressif/arduino-esp32
