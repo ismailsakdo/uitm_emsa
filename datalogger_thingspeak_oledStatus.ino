@@ -1,4 +1,5 @@
 //setup the RTC using RTC by makuna
+//install RTClib.h link - http://www.rinkydinkelectronics.com/library.php?id=73
 //Reference - https://github.com/ismailsakdo/EHRU_EMSA/blob/main/GROUP%20EHRU%20SKETCH22/nana_ccs811_mq.ino
 #include <Wire.h>
 #include <SPI.h>
