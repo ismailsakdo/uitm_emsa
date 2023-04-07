@@ -12,3 +12,18 @@ Step for Arduino IDE Setup:
 8) In the board manager, type: ESP32
 9) Click install on the ESP32 by Espressif
 10) Done Installation
+
+Chapter 2
+Installation of Libraries
+- There are two ways to install the libraries, first using the Arduino Library Manager, second using the folder/ zip file.
+
+Method 1 (Install from Library Manager)
+1) Go to Sketch Menu > Include Library > Manage Libraries
+2) Install the library as you need. 
+
+Method 2 (Install from zip file)
+1) Navigate the source
+2) Download the Zip file
+3) Extract the Zip file
+4) Rename the folder, remove the "-master" extension if any
+5) Copy the unzip folder into Arduino library folder
