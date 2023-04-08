@@ -78,3 +78,6 @@ The datalogger is define as the sistem/ operation that enable the user to record
 1) Install the ESP32 Board Manager (refer to Chapter 1 & 2)
 2) Upload Sketch of RTC by Makuna
 3) Upload sketch of Step 1: 
+
+# Familiarize The MCU + Sensor
+## Irsensor: https://github.com/ismailsakdo/uitm_emsa/blob/main/irsensor.ino
