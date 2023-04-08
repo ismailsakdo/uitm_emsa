@@ -55,3 +55,4 @@ Installation of Libraries
 1) Identify the urban environmental health analytics issues to be explore
 2) Perform secondary data analysis (screening)
 3) Priotitize the location of interest and start prototyping
+4) Refer following connection [<img src="https://github.com/ismailsakdo/uitm_emsa/blob/main/Connection_bb.png" width="500px">](https://www.ibes.ilkkmsb.edu.my
