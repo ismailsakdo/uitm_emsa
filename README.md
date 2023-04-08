@@ -1,7 +1,11 @@
 # UiTM Smart Environmental Monitoring, Surveillance and Analytics (Public, Environmental and Occupational Health)
 
 ## UiTM EMSA Technology
-What is EMSA? Environmental Monitoring, Surveillance and Analytics. This is technical smart sensor monitoring consist of hardware and software in development of environmental health instrument for monitoring pollutants and predict health outcome.
+What is EMSA? Environmental Monitoring, Surveillance and Analytics. This is technical smart sensor monitoring consist of hardware and software in development of environmental health instrument for monitoring pollutants and predict health outcome. The main Learning Objectives for this course will be:
+1) Understand the use of IoT Technology in Urban EH Analytics in the application of Big Data Analytics (BDA)
+2) Develop sensor technology that able to support the BDA for pollutants in community and urban issues
+3) Develop electronic dashboard that able to support the BDA decision making process to safe-guard environmental health issues in community/ urban
+4) Analyse the collected data from sensor tchnology, IoT, BDA and utilized machine learning algorithm for making good environmental health decision
 
 This is the official step for my class in UiTM. If you one of the candidate, please do enable yourself "EMSA Kit". 
 
