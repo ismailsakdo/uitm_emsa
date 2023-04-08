@@ -80,4 +80,6 @@ The datalogger is define as the sistem/ operation that enable the user to record
 3) Upload sketch of Step 1: 
 
 # Familiarize The MCU + Sensor
-## Irsensor: https://github.com/ismailsakdo/uitm_emsa/blob/main/irsensor.ino
+## Irsensor
+1) Connect IR sensor Pin (4)
+2) Upload code: https://github.com/ismailsakdo/uitm_emsa/blob/main/irsensor.ino
