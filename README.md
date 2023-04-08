@@ -55,4 +55,12 @@ Installation of Libraries
 1) Identify the urban environmental health analytics issues to be explore
 2) Perform secondary data analysis (screening)
 3) Priotitize the location of interest and start prototyping
-4) Refer following connection [<img src="https://github.com/ismailsakdo/uitm_emsa/blob/main/Connection_bb.png" width="500px">](https://www.ibes.ilkkmsb.edu.my
+4) Refer following connection [<img src="https://github.com/ismailsakdo/uitm_emsa/blob/main/Connection_bb.png" width="500px">]
+5) Test each of the sensor using one module at one time
+6) Follow Chapter 4
+
+# Chapter 4
+## Datalogger
+The datalogger is define as the sistem/ operation that enable the user to record the data according to the time and date for particular sensor/ sensing process. Its enable the investigator to understand the trend associated with the date and time perspective. The main aim of the datalogger was to simulate the forecasting of the pollutants that exist with the ambient environment.
+
+## Step of building datalogger
