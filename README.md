@@ -1,8 +1,9 @@
 # UiTM Smart Environmental Monitoring, Surveillance and Analytics (Public, Environmental and Occupational Health)
 
 ## UiTM EMSA Technology
+What is EMSA? Environmental Monitoring, Surveillance and Analytics. This is technical smart sensor monitoring consist of hardware and software in development of environmental health instrument for monitoring pollutants and predict health outcome.
 
-This is the official step for my class:
+This is the official step for my class in UiTM. If you one of the candidate, please do enable yourself "EMSA Kit". 
 
 # Chapter 1
 Step for Arduino IDE Setup:
