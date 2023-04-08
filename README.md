@@ -63,4 +63,6 @@ Installation of Libraries
 ## Datalogger
 The datalogger is define as the sistem/ operation that enable the user to record the data according to the time and date for particular sensor/ sensing process. Its enable the investigator to understand the trend associated with the date and time perspective. The main aim of the datalogger was to simulate the forecasting of the pollutants that exist with the ambient environment.
 
-### Step of building datalogger
+### Step for Datalogger
+1) Install the SD card module according to the diagram (SPI Connection: https://randomnerdtutorials.com/esp32-microsd-card-arduino/)
+2) Install the RTC DS3231 module according to diagram (I2C Connection)
