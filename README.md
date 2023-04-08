@@ -5,7 +5,7 @@ This is the official step for my class:
 
 #Chapter 1
 Step for Arduino IDE Setup:
-1) Navigate arduino [website] (https://arduino.cc/software)
+1) Navigate arduino website: https://arduino.cc/software
 2) Download the software according to your Operating System (OS)
 3) Install the Arduino Software including the related USB Driver
 4) Copy the following link: https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json
@@ -49,4 +49,4 @@ List of Libraries:
 6) Adafruit_PM25AQI
 7) ThingSpeak
 8) WiFiManager
-9) SD card if not present [CLICK HERE] (https://github.com/espressif/arduino-esp32)
+9) SD card if not present link: https://github.com/espressif/arduino-esp32
