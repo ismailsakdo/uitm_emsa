@@ -104,11 +104,6 @@ void loop() {
 
   //IR sensor
   detect = digitalRead(detectPin);
-
-  //internet stuff
-  internet();
-
-  //IF for the Display
   if (detect != 1) {
     Serial.print("Movement detected ");
     Serial.print(co2);
@@ -153,6 +148,7 @@ void loop() {
   }
 
   display.display();
+  internet();
   delay(15000);
 }
 
