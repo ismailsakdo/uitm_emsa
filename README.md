@@ -94,3 +94,8 @@ The datalogger is define as the sistem/ operation that enable the user to record
 2) Conenct Oled
 3) Connect MQ135
 4) Upload Code: https://raw.githubusercontent.com/ismailsakdo/uitm_emsa/main/irsensor_oled_mq135.ino
+
+## IRsensor + oled + MQ + i2c sensor
+1) Follow step 1-3 as mention in previous
+2) Install additional sensor
+3) Upload code: https://raw.githubusercontent.com/ismailsakdo/uitm_emsa/main/ir_oled_mq_th.ino
