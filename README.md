@@ -87,4 +87,4 @@ The datalogger is define as the sistem/ operation that enable the user to record
 ## Irsensor + OLED Display
 1) Connect IR Sensor Pin(4)
 2) Connect the OLED display (SDA, SCL) - I2C
-3) Upload code: 
+3) Upload code: https://raw.githubusercontent.com/ismailsakdo/uitm_emsa/main/irsensor_oled.ino
