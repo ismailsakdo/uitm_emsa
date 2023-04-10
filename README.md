@@ -101,6 +101,13 @@ The datalogger is define as the sistem/ operation that enable the user to record
 3) Upload code (BMP280): https://raw.githubusercontent.com/ismailsakdo/uitm_emsa/main/ir_oled_mq_tp.ino
 4) Upload Code (SHT21): https://raw.githubusercontent.com/ismailsakdo/uitm_emsa/main/ir_oled_mq_th.ino
 
+## Let's Make Datalogger
+1) Setup the RTC (Using RTC by MAKUNA)
+2) Setup the SD Card (Ensure format the SD Card - FAT32) - name file as data.txt
+3) Upload the CODE: 
+4) Observe the result in SD Card Reader
+
+
 ## Let's Make Even Challenging (IOT)
 1) Follow step 1-3 above (IR + Oled + MQ)
 2) Install new i2c sensor
