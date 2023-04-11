@@ -15,6 +15,7 @@ Adafruit_SSD1306 display(SCREEN_WIDTH, SCREEN_HEIGHT, &Wire, OLED_RESET);
 
 //intialize
 #define Board ("Arduino NANO")
+#define Pin135 (32)  //Analog input 2 of your arduino
 
 //setup of sensor
 #define RatioMQ135CleanAir (3.6)  //RS / R0 = 10 ppm
