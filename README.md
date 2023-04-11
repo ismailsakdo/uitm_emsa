@@ -114,7 +114,7 @@ The datalogger is define as the sistem/ operation that enable the user to record
 4) Visualize the output result in SD Card reader
 
 ## Let's Make Even Challenging (IOT)
-1) Follow step 1-3 above (IR + Oled + MQ)
-2) Install new i2c sensor
-3) Register Thingspeak account > create channel > copy ID + API Write Key
+1) Follow steps until particle sensor
+2) Register Thingspeak account > create channel > copy ID + API Write Key
+3) Ensure to try 2 times, upload with and without comment this LINE: //wifiManager.resetSettings(); 
 4) Upload Code: 
