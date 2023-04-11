@@ -104,9 +104,14 @@ The datalogger is define as the sistem/ operation that enable the user to record
 ## Let's Make Datalogger
 1) Setup the RTC (Using RTC by MAKUNA)
 2) Setup the SD Card (Ensure format the SD Card - FAT32) - name file as data.txt
-3) Upload the CODE: 
+3) Upload the CODE: https://raw.githubusercontent.com/ismailsakdo/uitm_emsa/main/ir_oled_mq_tp_datalogger.ino
 4) Observe the result in SD Card Reader
 
+## Add Particle Sensor into Our Datalogger
+1) Add the PMS7003 sensor (using Serial) into our Datalogger
+2) Change the view/ update the code
+3) Upload the code:
+4) Visualize the output result in SD Card reader
 
 ## Let's Make Even Challenging (IOT)
 1) Follow step 1-3 above (IR + Oled + MQ)
