@@ -110,7 +110,7 @@ The datalogger is define as the sistem/ operation that enable the user to record
 ## Add Particle Sensor into Our Datalogger
 1) Add the PMS7003 sensor (using Serial) into our Datalogger
 2) Change the view/ update the code
-3) Upload the code:
+3) Upload the code: https://raw.githubusercontent.com/ismailsakdo/uitm_emsa/main/ir_oled_mq_tp_datalogger_pms.ino
 4) Visualize the output result in SD Card reader
 
 ## Let's Make Even Challenging (IOT)
