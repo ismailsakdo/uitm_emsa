@@ -250,7 +250,7 @@ void loop() {
   display.print("PM0.3:");
 
   display.setTextSize(1);
-  display.setCursor(40, 30);
+  display.setCursor(40, 30); // adjust the (x,y) - X for left if needed
   display.print(pm03);
   
   display.setTextSize(1);
@@ -258,7 +258,7 @@ void loop() {
   display.print("PM25:");
 
   display.setTextSize(1);
-  display.setCursor(40, 40);
+  display.setCursor(40, 40); // adjust the (x,y) - X for left if needed
   display.print(pm25);
 
   display.setTextSize(1);
@@ -266,7 +266,7 @@ void loop() {
   display.print("PM10:");
 
   display.setTextSize(1);
-  display.setCursor(40, 50);
+  display.setCursor(40, 50); // adjust the (x,y) - X for left if needed
   display.print(pm10);
 
   } else {
@@ -320,7 +320,7 @@ void loop() {
   display.print("PM0.3:");
 
   display.setTextSize(1);
-  display.setCursor(40, 30);
+  display.setCursor(40, 30); // adjust the (x,y) - X for left if needed
   display.print(pm03);
   
   display.setTextSize(1);
@@ -328,7 +328,7 @@ void loop() {
   display.print("PM25:");
 
   display.setTextSize(1);
-  display.setCursor(40, 40);
+  display.setCursor(40, 40); // adjust the (x,y) - X for left if needed
   display.print(pm25);
 
   display.setTextSize(1);
@@ -336,7 +336,7 @@ void loop() {
   display.print("PM10:");
 
   display.setTextSize(1);
-  display.setCursor(40, 50);
+  display.setCursor(40, 50); // adjust the (x,y) - X for left if needed
   display.print(pm10);
 
   }
