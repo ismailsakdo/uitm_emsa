@@ -118,3 +118,4 @@ The datalogger is define as the sistem/ operation that enable the user to record
 2) Register Thingspeak account > create channel > copy ID + API Write Key
 3) Ensure to try 2 times, upload with and without comment this LINE: //wifiManager.resetSettings(); 
 4) Upload Code: https://raw.githubusercontent.com/ismailsakdo/uitm_emsa/main/ir_oled_mq_tp_datalogger_pms_iot.ino
+5) Upload Code 2 (Cleaner SD Card Output): https://raw.githubusercontent.com/ismailsakdo/uitm_emsa/main/final_all.ino
