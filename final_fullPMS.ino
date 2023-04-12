@@ -223,7 +223,7 @@ void loop() {
   dataMessage = String(now.day()) + String("/") + String(now.month()) + String("/") + String(now.year()) + String("||") +
                 String(now.hour()) + String(":") + String(now.minute()) + String(":") + String(now.second()) + String("||") +
                 String(";") + temp + String(";") + pressure + String(";") + co2 + 
-                String(";") + pm03 + String(";") + pm05 + String(";") + pm25 + String(";") + pm10 + String(";") + pm50 + String(";") + pm01 + 
+                String(";") + pm03 + String(";") + pm01 + String(";") + pm05 + String(";") + pm50 + String(";") + pm25 + String(";") + pm10 + 
                 String(";") + detect + "\r\n";
   Serial.print("Saving data: ");
   Serial.println(dataMessage);
