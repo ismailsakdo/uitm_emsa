@@ -122,3 +122,10 @@ The datalogger is define as the sistem/ operation that enable the user to record
 6) Connect to internet (Wataverse Technology)
 7) Go to link: http://192.168.4.1/
 8) Insert your username + password
+
+## Final Moment/ Express way
+1) Upload RTC by Makuna
+2) Edit your Thingspeak ID and API WRITE KEY
+3) Upload the Code1 (8 parameters) OR: https://raw.githubusercontent.com/ismailsakdo/uitm_emsa/main/final_all.ino
+4) Upload the Code2 (10 parameters - PMS all):
+
