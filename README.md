@@ -132,5 +132,10 @@ The datalogger is define as the sistem/ operation that enable the user to record
 ## Latest Code (30/4/2023)
 1) Upload RTC by Makuna
 2) Edit your Thingspeak ID, API Write Key, Username + Password (WiFi)
-3) Upload the Code Final (WiFi HardCode): 
+3) Upload the Code Final (WiFi HardCode): https://raw.githubusercontent.com/ismailsakdo/uitm_emsa/main/airqualityFinal.ino
+
+## TroubleShoot Problem
+1) Error on the COM Port - Download driver from the following Link: https://www.silabs.com/developers/usb-to-uart-bridge-vcp-drivers?tab=downloads
+2) Error on the ESP32 Compiling - Uninstall the Arduino IDE, Install Back the IDE, Install the Library
+3) Error on the ESP32 Compiling - Update the Arduino IDE board Manager
 
