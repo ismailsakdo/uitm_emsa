@@ -129,3 +129,8 @@ The datalogger is define as the sistem/ operation that enable the user to record
 3) Upload the Code1 (8 parameters) OR: https://raw.githubusercontent.com/ismailsakdo/uitm_emsa/main/final_all.ino
 4) Upload the Code2 (10 parameters - PMS all): https://raw.githubusercontent.com/ismailsakdo/uitm_emsa/main/final_fullPMS.ino
 
+## Latest Code (30/4/2023)
+1) Upload RTC by Makuna
+2) Edit your Thingspeak ID, API Write Key, Username + Password (WiFi)
+3) Upload the Code Final (WiFi HardCode): 
+
