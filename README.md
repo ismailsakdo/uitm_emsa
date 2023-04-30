@@ -148,3 +148,7 @@ Now we will construct normal Google Site for our display of the Thingspeak Chart
 
 ## Personalized Dashboard Using Google Appsheet + Google Sheet + Goolge App Script
 Now this time we will using the Google Sheet as databases retrive from the IOT Thingspeak server.
+1) Setup the Google Sheet (Insert Relevant Headers)
+2) Setup the Google App Script
+3) Copy coding from the following link: https://raw.githubusercontent.com/ismailsakdo/uitm_emsa/main/GOODimportThingspeakFinal.gs
+4) Activate, save and run accordingly
