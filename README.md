@@ -139,3 +139,12 @@ The datalogger is define as the sistem/ operation that enable the user to record
 2) Error on the ESP32 Compiling - Uninstall the Arduino IDE, Install Back the IDE, Install the Library
 3) Error on the ESP32 Compiling - Update the Arduino IDE board Manager
 
+# Chapter 5
+## Database for Urban Analytics (Air Quality Datalogger)
+The datalogger is now ready for data collection and you should ensure that the power supply is sufficiently provide for the unit together with the stable internet connection. Now is the part where we will import the thingspeak data from the IOT Analytics into the Google Sheet for further action/ dashboard.
+
+## Dashboard Thingspeak + Google Site
+Now we will construct normal Google Site for our display of the Thingspeak Chart into the Google Site.
+
+## Personalized Dashboard Using Google Appsheet + Google Sheet + Goolge App Script
+Now this time we will using the Google Sheet as databases retrive from the IOT Thingspeak server.
