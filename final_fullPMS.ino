@@ -204,7 +204,7 @@ void loop() {
 
   //additional
   pm50 = data.particles_50um;
-  pm01 = data.particles_10um
+  pm01 = data.particles_10um;
 
   //Read Date, Time and PMS 
   Serial.print("Date:  ");
